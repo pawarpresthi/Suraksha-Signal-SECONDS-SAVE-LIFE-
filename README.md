@@ -39,13 +39,11 @@
    - Fill the form (Name, Needs: Medical, Location). Click **"Send Help Now"**.
 
 2. **NGO / Volunteer**:
-   - Open [http://localhost:3000/ngo](http://localhost:3000/ngo).
    - See the new Red Pin on the map.
    - Click the pin -> Click **"Match Resource"**.
    - Confirm Delivery -> Earn **Impact Points**.
 
 3. **Public Display**:
-   - Open [http://localhost:3000/mirror](http://localhost:3000/mirror).
    - View flashing critical alerts impacting the community.
 
 ## Troubleshooting
