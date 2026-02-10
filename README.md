@@ -3,16 +3,15 @@
 **Suraksha Signal** connects victims, NGOs, and volunteers in real-time during disasters.
 
 ## Features
-- **Multilingual Support**: Select from 14+ regional languages.
+- **Multilingual Support**: Select from  regional languages.
 - **Victim Request Portal**: Minimalistic form to request food, medicine, or shelter. Auto-geolocation.
 - **NGO Command Center**: Dashboard to match requests with resources (Green pins) using a map interface.
-- **Screen Mirroring Mode**: High-contrast display for emergency alerts in public spaces.
 - **Smart Prioritization**: ML-simulated urgency scoring (Medical > Food > Shelter).
 
 ## Tech Stack
 - **Frontend**: Next.js 16 (React) with Vanilla CSS Modules.
 - **Backend API**: Next.js API Routes (Node.js).
-- **Data**: In-memory JSON store (simulated DB).
+- **Data**: MongoDB database 
 
 ## How to Run
 
