@@ -29,7 +29,7 @@
 3. **Open Application**:
    - Go to https://suraksha-signal-seconds-save-life-g.vercel.app/
 
-## Demo Workflow
+## Workflow
 
 1. **User (Victim)**:
    - Open home page.
@@ -47,4 +47,4 @@
 
 ## Troubleshooting
 - If `npm install` fails, ensure you have internet access and Node.js installed.
-- Reset the demo by restarting the server (clears in-memory data).
+- Reset by restarting the server.
